@@ -1,8 +1,6 @@
-import "./globals.css";
 
 export const metadata = {
-  title: "Comrade Mustapha Network",
-  description: "Official campaign website",
+  title: "Comrade Mustapha Network"
 };
 
 export default function RootLayout({ children }) {
