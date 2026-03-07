@@ -1,13 +1,16 @@
-# CMN Campaign Site
+# CMN Campaign Website
 
-## Setup
-1. Put your images in `public/`:
-   - `cmn-logo.png`
-   - `candidate-photo.jpg`
-2. Run:
-   npm install
-   npm run dev
+## Before running
+Place your images inside `public/` with these exact names:
+- `cmn-logo.png`
+- `candidate-photo.jpg`
 
-## Volunteer Form
-The volunteer form is connected to Formspree:
+## Run locally
+```bash
+npm install
+npm run dev
+```
+
+## Volunteer form
+This project is connected to Formspree:
 https://formspree.io/f/xvzwovqz
